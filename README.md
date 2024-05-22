@@ -1,2 +1,2 @@
-# GymFreak
-GymFreak - ReactJS Gym Application
+# GFG
+GFG POTD
