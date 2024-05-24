@@ -1,2 +1,0 @@
-# GFG
-GFG POTD
